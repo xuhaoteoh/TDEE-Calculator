@@ -1,2 +1,2 @@
 # TDEE-Calculator
-Just building my first web app with R
+Just building my first web app with R Shiny.
